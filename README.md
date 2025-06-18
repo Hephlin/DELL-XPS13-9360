@@ -1,4 +1,4 @@
-# Hackintosh OpenCore EFI for DELL XPS13 9360
+# DELL-XPS13-9360 FIRMWARE
 ```
 Model              DELL XPS13 9360
 CPU                Intel Core i5-8250U
